@@ -10,4 +10,4 @@ Each folder is a different plugin that contains 1 block each. The esnext plugins
 5- check the plugin inside Gutenberg
 
 # Slides
-https://docs.google.com/presentation/d/1C8aZBB9W4C3VfLVVmRDiR0En_rLcnr4t-iK3r3j7Aps/edit#slide=id.g48613e42e0_1_0
+https://docs.google.com/presentation/d/1qhPg4nLTtDQ1dm8uN0FPd3U0qXoUi2-DZQh1yehgfas/edit#slide=id.p
