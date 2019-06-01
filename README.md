@@ -1,6 +1,5 @@
 # building-my-first-gutenberg-block
-Code samples from the "Building my first Gutenberg Block" presentation - WordCamp Toronto 2018
-
+Code samples from the "Building my first Gutenberg Block" presentation
 # How to run
 Each folder is a different plugin that contains 1 block each. The esnext plugins will need building before you can use it:
 1- in the terminal, go to the plugin folder
